@@ -1,6 +1,6 @@
 # 💻 Khadija Ourraiss  
 
-🌟 *Final-year Web Development Student | Passionate Backend Developer | Lifelong Learner*  
+🌟 *Full-stack Developer | Passionate Backend Developer | Lifelong Learner*  
 
 ---
 
